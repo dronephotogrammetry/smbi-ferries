@@ -17,10 +17,11 @@ try {
     console.error("Warning: trip-dict.json not found. Run cruncher first!");
 }
 
-// --- CACHING SYSTEM ---
+// --- CACHING & MEMORY SYSTEM ---
 let cachedFerryData = [];
 let lastFetchTime = 0;
 const CACHE_LIFESPAN = 15000;
+const serverFerryHistory = {}; // NEW: The server's memory bank!
 
 app.get('/api/ferries', async (req, res) => {
     try {
@@ -43,19 +44,37 @@ app.get('/api/ferries', async (req, res) => {
 
         const cleanFerryList = smbiFerries.map(ferry => {
             const tripId = ferry.vehicle.trip.tripId;
-            // Access the new smart dictionary
             const tripInfo = tripDict[tripId] || { destination: "Islands", route_id: "Unknown" };
 
             const rawId = ferry.vehicle.vehicle.id;
             const vesselName = rawId.includes('_') ? rawId.split('_')[1] : "SMBI Ferry";
+            
+            const currentLat = ferry.vehicle.position.latitude;
+            const currentLon = ferry.vehicle.position.longitude;
+
+            // --- UPDATE SERVER MEMORY ---
+            if (!serverFerryHistory[rawId]) {
+                serverFerryHistory[rawId] = [];
+            }
+            
+            // Only add a new dot to the tail if the ferry actually moved (prevents bunched up tails when docked)
+            const history = serverFerryHistory[rawId];
+            const lastPos = history[history.length - 1];
+            if (!lastPos || lastPos[0] !== currentLat || lastPos[1] !== currentLon) {
+                history.push([currentLat, currentLon]);
+                if (history.length > 4) {
+                    history.shift(); // Keep only the last 4 positions
+                }
+            }
 
             return {
                 id: rawId,
                 vesselName: vesselName,
-                staticRouteId: tripInfo.route_id, // <--- Serve the static route code!
+                staticRouteId: tripInfo.route_id,
                 destination: tripInfo.destination,
-                latitude: ferry.vehicle.position.latitude,
-                longitude: ferry.vehicle.position.longitude
+                latitude: currentLat,
+                longitude: currentLon,
+                history: history // NEW: Send the pre-built tail to the phone!
             };
         });
 
