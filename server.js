@@ -21,7 +21,7 @@ try {
 let cachedFerryData = [];
 let lastFetchTime = 0;
 const CACHE_LIFESPAN = 15000;
-const serverFerryHistory = {}; // NEW: The server's memory bank!
+const serverFerryHistory = {}; // NEW: The server's memory bank for the tails!
 
 app.get('/api/ferries', async (req, res) => {
     try {
@@ -42,7 +42,7 @@ app.get('/api/ferries', async (req, res) => {
             return routeId.includes('SMBI') || routeId.includes('299');
         });
 
-        const cleanFerryList = smbiFerries.map(ferry => {
+       const cleanFerryList = smbiFerries.map(ferry => {
             const tripId = ferry.vehicle.trip.tripId;
             const tripInfo = tripDict[tripId] || { destination: "Islands", route_id: "Unknown" };
 
@@ -52,18 +52,31 @@ app.get('/api/ferries', async (req, res) => {
             const currentLat = ferry.vehicle.position.latitude;
             const currentLon = ferry.vehicle.position.longitude;
 
-            // --- UPDATE SERVER MEMORY ---
+            // --- UPDATE SERVER MEMORY & ANTI-TELEPORTATION ---
             if (!serverFerryHistory[rawId]) {
                 serverFerryHistory[rawId] = [];
             }
             
-            // Only add a new dot to the tail if the ferry actually moved (prevents bunched up tails when docked)
             const history = serverFerryHistory[rawId];
             const lastPos = history[history.length - 1];
-            if (!lastPos || lastPos[0] !== currentLat || lastPos[1] !== currentLon) {
-                history.push([currentLat, currentLon]);
-                if (history.length > 4) {
-                    history.shift(); // Keep only the last 4 positions
+
+            // Anti-Teleportation Check: If it jumps too far in 15 seconds, wipe the memory
+            if (lastPos) {
+                const latDiff = Math.abs(currentLat - lastPos[0]);
+                const lonDiff = Math.abs(currentLon - lastPos[1]);
+                if (latDiff > 0.008 || lonDiff > 0.008) {
+                    serverFerryHistory[rawId] = []; 
+                }
+            }
+
+            const activeHistory = serverFerryHistory[rawId];
+            const activeLastPos = activeHistory[activeHistory.length - 1];
+
+            // Only add dot if it moved
+            if (!activeLastPos || activeLastPos[0] !== currentLat || activeLastPos[1] !== currentLon) {
+                activeHistory.push([currentLat, currentLon]);
+                if (activeHistory.length > 4) {
+                    activeHistory.shift(); 
                 }
             }
 
@@ -74,7 +87,7 @@ app.get('/api/ferries', async (req, res) => {
                 destination: tripInfo.destination,
                 latitude: currentLat,
                 longitude: currentLon,
-                history: history // NEW: Send the pre-built tail to the phone!
+                history: activeHistory // Send the cleaned tail to the phone!
             };
         });
 
