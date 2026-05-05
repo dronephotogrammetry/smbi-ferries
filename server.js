@@ -20,7 +20,7 @@ try {
 // --- CACHING & MEMORY SYSTEM ---
 let cachedFerryData = [];
 let lastFetchTime = 0;
-const CACHE_LIFESPAN = 15000;
+const CACHE_LIFESPAN = 10000;
 const serverFerryHistory = {}; // NEW: The server's memory bank for the tails!
 
 app.get('/api/ferries', async (req, res) => {
