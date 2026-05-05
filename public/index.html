@@ -149,7 +149,7 @@
         updateFerryLocations();
         setInterval(() => {
             if (!document.hidden) updateFerryLocations();
-        }, 15000);
+        }, 10000);
 
         // --- REAL SCHEDULE LOGIC ---
         async function loadSchedule() {
@@ -160,7 +160,33 @@
                 const now = new Date();
                 const currentTimeStr = now.getHours().toString().padStart(2, '0') + ":" + 
                                        now.getMinutes().toString().padStart(2, '0') + ":00";
-                const currentDayOfWeek = now.getDay(); 
+                
+                // --- NEW HOLIDAY LOGIC ---
+                // Format today as YYYY-MM-DD to match our list
+                const todayString = now.getFullYear() + "-" + 
+                                    String(now.getMonth() + 1).padStart(2, '0') + "-" + 
+                                    String(now.getDate()).padStart(2, '0');
+
+                // Add QLD Public Holidays here
+                const qldHolidays = [
+                    "2026-01-01", // New Year's Day
+                    "2026-01-26", // Australia Day
+                    "2026-04-03", // Good Friday
+                    "2026-04-06", // Easter Monday
+                    "2026-04-25", // Anzac Day
+                    "2026-05-04", // Labour Day (May Day!)
+                    "2026-10-05", // King's Birthday
+                    "2026-12-25", // Christmas Day
+                    "2026-12-26"  // Boxing Day
+                ];
+
+                // Note: This is now a 'let' instead of a 'const' so we can overwrite it!
+                let currentDayOfWeek = now.getDay(); 
+
+                // If today is in the holiday list, force Sunday's schedule (0)
+                if (qldHolidays.includes(todayString)) {
+                    currentDayOfWeek = 0; 
+                }
 
                 let todaysFerries = scheduleData
                     .filter(trip => trip.days && trip.days[currentDayOfWeek] === true)
