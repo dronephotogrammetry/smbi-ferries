@@ -5,7 +5,7 @@ async function buildSchedule() {
     console.log("1. Finding Ferry Routes...");
     const ferryRouteIds = new Set();
     await new Promise(resolve => {
-        fs.createReadStream('./gtfs_raw/routes.txt').pipe(csv())
+        fs.createReadStream('./gtfs_data/routes.txt').pipe(csv())
             .on('data', row => {
                 if (row.route_type === '4' || row.route_id.includes('SMBI')) {
                     ferryRouteIds.add(row.route_id);
@@ -17,7 +17,7 @@ async function buildSchedule() {
     console.log("2. Mapping TransLink Calendar...");
     const serviceDays = {};
     await new Promise(resolve => {
-        fs.createReadStream('./gtfs_raw/calendar.txt').pipe(csv())
+        fs.createReadStream('./gtfs_data/calendar.txt').pipe(csv())
             .on('data', row => {
                 serviceDays[row.service_id] = {
                     1: row.monday === '1', 2: row.tuesday === '1', 3: row.wednesday === '1',
@@ -32,7 +32,7 @@ async function buildSchedule() {
     const tripDict = {}; 
     const smbiShapeIds = new Set();
     await new Promise(resolve => {
-        fs.createReadStream('./gtfs_raw/trips.txt').pipe(csv())
+        fs.createReadStream('./gtfs_data/trips.txt').pipe(csv())
             .on('data', row => {
                 if (ferryRouteIds.has(row.route_id)) {
                     tripData[row.trip_id] = {
@@ -55,7 +55,7 @@ async function buildSchedule() {
     console.log("4. Locating Island Terminals...");
     const targetStops = {};
     await new Promise(resolve => {
-        fs.createReadStream('./gtfs_raw/stops.txt').pipe(csv())
+       fs.createReadStream('./gtfs_data/stops.txt').pipe(csv())
             .on('data', row => {
                 const name = row.stop_name.toLowerCase();
                 if (name.includes('macleay') || name.includes('russell') || 
@@ -69,7 +69,7 @@ async function buildSchedule() {
     console.log("5. Crunching Stop Times...");
     const schedule = [];
     await new Promise(resolve => {
-        fs.createReadStream('./gtfs_raw/stop_times.txt').pipe(csv())
+        fs.createReadStream('./gtfs_data/stop_times.txt').pipe(csv())
             .on('data', row => {
                 if (tripData[row.trip_id] && targetStops[row.stop_id]) {
                     schedule.push({
@@ -85,7 +85,7 @@ async function buildSchedule() {
     console.log("6. Extracting FULL Resolution Route Shapes...");
     const rawShapes = {};
     await new Promise(resolve => {
-        fs.createReadStream('./gtfs_raw/shapes.txt').pipe(csv())
+        fs.createReadStream('./gtfs_data/shapes.txt').pipe(csv())
             .on('data', row => {
                 if (smbiShapeIds.has(row.shape_id)) {
                     if (!rawShapes[row.shape_id]) rawShapes[row.shape_id] = [];
