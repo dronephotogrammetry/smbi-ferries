@@ -1,0 +1,49 @@
+name: Weekly SMBI Timetable Update
+
+# 1. THE SCHEDULE
+on:
+  schedule:
+    # This is UTC time. "0 16 * * 0" means 16:00 Sunday UTC = 02:00 Monday AEST
+    - cron: '0 16 * * 0'
+  
+  # This line adds a button so you can run it manually whenever you want!
+  workflow_dispatch: 
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 2. CHECK OUT THE CODE
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # 3. SET UP NODE.JS
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # 4. DOWNLOAD & UNZIP TRANSLINK DATA
+      - name: Download latest GTFS zip
+        run: |
+          echo "Downloading SEQ GTFS data..."
+          curl -o gtfs.zip https://gtfsrt.api.translink.com.au/GTFS/SEQ_GTFS.zip
+          echo "Unzipping data..."
+          unzip -o gtfs.zip -d gtfs_data
+          # Clean up the heavy zip file so we don't commit it!
+          rm gtfs.zip 
+
+      # 5. RUN YOUR CRUNCHER SCRIPT
+      - name: Run Data Cruncher
+        run: |
+          # Make sure to install dependencies if your cruncher needs them (like csv-parser)
+          # npm install 
+          node cruncher.js
+
+      # 6. SAVE AND PUSH THE UPDATES
+      - name: Commit Updated Timetables
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🤖 Auto-update: Weekly SMBI GTFS Timetable"
+          file_pattern: "*.json" # Only commit the updated JSON files
