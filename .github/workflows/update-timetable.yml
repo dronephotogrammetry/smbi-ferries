@@ -39,7 +39,7 @@ jobs:
         run: |
           # Make sure to install dependencies if your cruncher needs them (like csv-parser)
           # npm install 
-          node cruncher.js
+          node build-timetables.js
 
       # 6. SAVE AND PUSH THE UPDATES
       - name: Commit Updated Timetables
