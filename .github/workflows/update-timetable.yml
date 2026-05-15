@@ -38,7 +38,7 @@ jobs:
       - name: Run Data Cruncher
         run: |
           # Make sure to install dependencies if your cruncher needs them (like csv-parser)
-          # npm install 
+          npm install 
           node build-timetable.js
 
       # 6. SAVE AND PUSH THE UPDATES
