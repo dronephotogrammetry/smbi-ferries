@@ -40,7 +40,7 @@ async function buildSchedule() {
                     let isTerminating = false;
                     
                     // If the headsign says Russell but NOT Redland Bay, it's trapped on the islands!
-                    if (headsign.includes("russell") && !headsign.includes("redland")) {
+                    if (headsign.includes("russell") && !headsign.includes("redland")) && !headsign.includes("then")) {
                         isTerminating = true;
                     }
 
