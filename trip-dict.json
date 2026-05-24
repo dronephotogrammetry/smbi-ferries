@@ -34527,13 +34527,13 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522016-SMBI 25_26-40690": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522017-SMBI 25_26-40690": {
     "destination": "Karragarra then Islands",
@@ -34545,13 +34545,13 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522019-SMBI 25_26-40690": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522020-SMBI 25_26-40690": {
     "destination": "Karragarra then Islands",
@@ -34569,7 +34569,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522023-SMBI 25_26-40690": {
     "destination": "Karragarra then Islands",
@@ -34581,7 +34581,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522025-SMBI 25_26-40690": {
     "destination": "Karragarra then Islands",
@@ -34599,7 +34599,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522028-SMBI 25_26-40690": {
     "destination": "Karragarra then Islands",
@@ -34617,7 +34617,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522031-SMBI 25_26-40690": {
     "destination": "Karragarra then Islands",
@@ -34635,13 +34635,13 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522034-SMBI 25_26-40690": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522035-SMBI 25_26-40690": {
     "destination": "Karragarra then Islands",
@@ -34659,13 +34659,13 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522038-SMBI 25_26-40690": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522039-SMBI 25_26-40690": {
     "destination": "Karragarra then Islands",
@@ -34677,7 +34677,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522041-SMBI 25_26-40690": {
     "destination": "Karragarra then Islands",
@@ -34689,7 +34689,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522043-SMBI 25_26-40690": {
     "destination": "Karragarra then Islands",
@@ -34701,7 +34701,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522045-SMBI 25_26-40690": {
     "destination": "Karragarra then Islands",
@@ -34731,7 +34731,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522050-SMBI 25_26-40690": {
     "destination": "Karragarra then Islands",
@@ -34767,19 +34767,19 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522056-SMBI 25_26-40690": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522206-SMBI 25_26-40693": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522207-SMBI 25_26-40693": {
     "destination": "Karragarra then Islands",
@@ -34791,13 +34791,13 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522209-SMBI 25_26-40693": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522210-SMBI 25_26-40693": {
     "destination": "Karragarra then Islands",
@@ -34815,7 +34815,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522213-SMBI 25_26-40693": {
     "destination": "Karragarra then Islands",
@@ -34827,7 +34827,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522215-SMBI 25_26-40693": {
     "destination": "Karragarra then Islands",
@@ -34845,7 +34845,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522218-SMBI 25_26-40693": {
     "destination": "Karragarra then Islands",
@@ -34863,7 +34863,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522221-SMBI 25_26-40693": {
     "destination": "Karragarra then Islands",
@@ -34881,13 +34881,13 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522224-SMBI 25_26-40693": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522225-SMBI 25_26-40693": {
     "destination": "Karragarra then Islands",
@@ -34905,13 +34905,13 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522228-SMBI 25_26-40693": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522229-SMBI 25_26-40693": {
     "destination": "Karragarra then Islands",
@@ -34923,7 +34923,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522231-SMBI 25_26-40693": {
     "destination": "Karragarra then Islands",
@@ -34935,7 +34935,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522233-SMBI 25_26-40693": {
     "destination": "Karragarra then Islands",
@@ -34947,7 +34947,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522235-SMBI 25_26-40693": {
     "destination": "Karragarra then Islands",
@@ -34977,7 +34977,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522240-SMBI 25_26-40693": {
     "destination": "Karragarra then Islands",
@@ -35007,13 +35007,13 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522245-SMBI 25_26-40693": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522069-SMBI 25_26-40691": {
     "destination": "Karragarra then Islands",
@@ -35025,7 +35025,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522071-SMBI 25_26-40691": {
     "destination": "Karragarra then Islands",
@@ -35043,13 +35043,13 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522074-SMBI 25_26-40691": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522075-SMBI 25_26-40691": {
     "destination": "Karragarra then Islands",
@@ -35061,7 +35061,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522077-SMBI 25_26-40691": {
     "destination": "Karragarra then Islands",
@@ -35079,13 +35079,13 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0376",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522080-SMBI 25_26-40691": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0305",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522081-SMBI 25_26-40691": {
     "destination": "Karragarra then Islands",
@@ -35097,7 +35097,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522083-SMBI 25_26-40691": {
     "destination": "Karragarra then Islands",
@@ -35115,103 +35115,103 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522086-SMBI 25_26-40691": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522087-SMBI 25_26-40691": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522088-SMBI 25_26-40691": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522089-SMBI 25_26-40691": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0386",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522090-SMBI 25_26-40691": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522091-SMBI 25_26-40691": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522092-SMBI 25_26-40691": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522093-SMBI 25_26-40691": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522094-SMBI 25_26-40691": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522095-SMBI 25_26-40691": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522096-SMBI 25_26-40691": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522097-SMBI 25_26-40691": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522098-SMBI 25_26-40691": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522099-SMBI 25_26-40691": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522100-SMBI 25_26-40691": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522101-SMBI 25_26-40691": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522102-SMBI 25_26-40691": {
     "destination": "Karragarra then Islands",
@@ -35355,7 +35355,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522126-SMBI 25_26-40691": {
     "destination": "Karragarra then Islands",
@@ -35367,7 +35367,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "34522128-SMBI 25_26-40691": {
     "destination": "Karragarra then Islands",
@@ -35385,13 +35385,13 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636836-SMBI 26_27-43030": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636837-SMBI 26_27-43030": {
     "destination": "Karragarra then Islands",
@@ -35403,13 +35403,13 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636839-SMBI 26_27-43030": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636840-SMBI 26_27-43030": {
     "destination": "Karragarra then Islands",
@@ -35427,7 +35427,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636843-SMBI 26_27-43030": {
     "destination": "Karragarra then Islands",
@@ -35439,7 +35439,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636845-SMBI 26_27-43030": {
     "destination": "Karragarra then Islands",
@@ -35457,7 +35457,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636848-SMBI 26_27-43030": {
     "destination": "Karragarra then Islands",
@@ -35475,7 +35475,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636851-SMBI 26_27-43030": {
     "destination": "Karragarra then Islands",
@@ -35493,13 +35493,13 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636854-SMBI 26_27-43030": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636855-SMBI 26_27-43030": {
     "destination": "Karragarra then Islands",
@@ -35517,13 +35517,13 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636858-SMBI 26_27-43030": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636859-SMBI 26_27-43030": {
     "destination": "Karragarra then Islands",
@@ -35535,7 +35535,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636861-SMBI 26_27-43030": {
     "destination": "Karragarra then Islands",
@@ -35547,7 +35547,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636863-SMBI 26_27-43030": {
     "destination": "Karragarra then Islands",
@@ -35559,7 +35559,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636865-SMBI 26_27-43030": {
     "destination": "Karragarra then Islands",
@@ -35589,7 +35589,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636870-SMBI 26_27-43030": {
     "destination": "Karragarra then Islands",
@@ -35625,19 +35625,19 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636876-SMBI 26_27-43030": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636974-SMBI 26_27-43032": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636975-SMBI 26_27-43032": {
     "destination": "Karragarra then Islands",
@@ -35649,13 +35649,13 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636977-SMBI 26_27-43032": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636978-SMBI 26_27-43032": {
     "destination": "Karragarra then Islands",
@@ -35673,7 +35673,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636981-SMBI 26_27-43032": {
     "destination": "Karragarra then Islands",
@@ -35685,7 +35685,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636983-SMBI 26_27-43032": {
     "destination": "Karragarra then Islands",
@@ -35703,7 +35703,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636986-SMBI 26_27-43032": {
     "destination": "Karragarra then Islands",
@@ -35721,7 +35721,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636989-SMBI 26_27-43032": {
     "destination": "Karragarra then Islands",
@@ -35739,13 +35739,13 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636992-SMBI 26_27-43032": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636993-SMBI 26_27-43032": {
     "destination": "Karragarra then Islands",
@@ -35763,13 +35763,13 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636996-SMBI 26_27-43032": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636997-SMBI 26_27-43032": {
     "destination": "Karragarra then Islands",
@@ -35781,7 +35781,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636999-SMBI 26_27-43032": {
     "destination": "Karragarra then Islands",
@@ -35793,7 +35793,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37637001-SMBI 26_27-43032": {
     "destination": "Karragarra then Islands",
@@ -35805,7 +35805,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37637003-SMBI 26_27-43032": {
     "destination": "Karragarra then Islands",
@@ -35835,7 +35835,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37637008-SMBI 26_27-43032": {
     "destination": "Karragarra then Islands",
@@ -35865,13 +35865,13 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37637013-SMBI 26_27-43032": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636889-SMBI 26_27-43031": {
     "destination": "Karragarra then Islands",
@@ -35883,7 +35883,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636891-SMBI 26_27-43031": {
     "destination": "Karragarra then Islands",
@@ -35901,13 +35901,13 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636894-SMBI 26_27-43031": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636895-SMBI 26_27-43031": {
     "destination": "Karragarra then Islands",
@@ -35919,7 +35919,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636897-SMBI 26_27-43031": {
     "destination": "Karragarra then Islands",
@@ -35937,13 +35937,13 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0376",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636900-SMBI 26_27-43031": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0305",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636901-SMBI 26_27-43031": {
     "destination": "Karragarra then Islands",
@@ -35955,7 +35955,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636903-SMBI 26_27-43031": {
     "destination": "Karragarra then Islands",
@@ -35973,103 +35973,103 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636906-SMBI 26_27-43031": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636907-SMBI 26_27-43031": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636908-SMBI 26_27-43031": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636909-SMBI 26_27-43031": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0386",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636910-SMBI 26_27-43031": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636911-SMBI 26_27-43031": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636912-SMBI 26_27-43031": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636913-SMBI 26_27-43031": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636914-SMBI 26_27-43031": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636915-SMBI 26_27-43031": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636916-SMBI 26_27-43031": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636917-SMBI 26_27-43031": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636918-SMBI 26_27-43031": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636919-SMBI 26_27-43031": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636920-SMBI 26_27-43031": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636921-SMBI 26_27-43031": {
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636922-SMBI 26_27-43031": {
     "destination": "Karragarra then Islands",
@@ -36213,7 +36213,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0295",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636946-SMBI 26_27-43031": {
     "destination": "Karragarra then Islands",
@@ -36225,7 +36225,7 @@
     "destination": "Russell then Islands",
     "route_id": "SMBI-3779",
     "shape_id": "SMBI0294",
-    "is_terminating": true
+    "is_terminating": false
   },
   "37636948-SMBI 26_27-43031": {
     "destination": "Karragarra then Islands",
