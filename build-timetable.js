@@ -27,7 +27,7 @@ async function buildSchedule() {
             .on('end', resolve);
     });
 
-    console.log("3. Building Server Dictionary (Now with Route IDs!)...");
+    console.log("3. Building Server Dictionary...");
     const tripData = {};
     const tripDict = {}; 
     const smbiShapeIds = new Set();
@@ -35,15 +35,25 @@ async function buildSchedule() {
         fs.createReadStream('./gtfs_data/trips.txt').pipe(csv())
             .on('data', row => {
                 if (ferryRouteIds.has(row.route_id)) {
+                    // --- NEW LOGIC: Detect Terminating Runs ---
+                    const headsign = row.trip_headsign ? row.trip_headsign.toLowerCase() : "ferry";
+                    let isTerminating = false;
+                    
+                    // If the headsign says Russell but NOT Redland Bay, it's trapped on the islands!
+                    if (headsign.includes("russell") && !headsign.includes("redland")) {
+                        isTerminating = true;
+                    }
+
                     tripData[row.trip_id] = {
                         destination: row.trip_headsign || "Ferry",
                         service_id: row.service_id
                     };
-                    // NEW: Store the static route ID so we can color coordinate!
+                    
                     tripDict[row.trip_id] = {
                         destination: row.trip_headsign || "Ferry",
                         route_id: row.route_id,
-                        shape_id: row.shape_id
+                        shape_id: row.shape_id,
+                        is_terminating: isTerminating
                     };
                     if (row.shape_id) smbiShapeIds.add(row.shape_id);
                 }
@@ -55,7 +65,7 @@ async function buildSchedule() {
     console.log("4. Locating Island Terminals...");
     const targetStops = {};
     await new Promise(resolve => {
-       fs.createReadStream('./gtfs_data/stops.txt').pipe(csv())
+        fs.createReadStream('./gtfs_data/stops.txt').pipe(csv())
             .on('data', row => {
                 const name = row.stop_name.toLowerCase();
                 if (name.includes('macleay') || name.includes('russell') || 
@@ -73,8 +83,10 @@ async function buildSchedule() {
             .on('data', row => {
                 if (tripData[row.trip_id] && targetStops[row.stop_id]) {
                     schedule.push({
-                        time: row.arrival_time, destination: tripData[row.trip_id].destination,
-                        stop: targetStops[row.stop_id], days: serviceDays[tripData[row.trip_id].service_id]
+                        time: row.arrival_time, 
+                        destination: tripData[row.trip_id].destination,
+                        stop: targetStops[row.stop_id], 
+                        days: serviceDays[tripData[row.trip_id].service_id]
                     });
                 }
             })
@@ -102,11 +114,8 @@ async function buildSchedule() {
     const cleanShapes = [];
     for (const shapeId in rawShapes) {
         rawShapes[shapeId].sort((a, b) => a.seq - b.seq);
-        
-        // NO MORE DECIMATION! Keep every single point for perfect curves.
         const coords = rawShapes[shapeId].map(pt => [pt.lat, pt.lon]);
         
-        // Find out which route this shape belongs to so we can color it
         let routeId = "Unknown";
         for (const trip in tripDict) {
             if (tripDict[trip].shape_id === shapeId) {
@@ -121,4 +130,5 @@ async function buildSchedule() {
     console.log("SUCCESS! Full resolution shapes and smarter dictionary generated!");
 }
 
+// Actually run the function!
 buildSchedule();
