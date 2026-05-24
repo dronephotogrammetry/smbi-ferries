@@ -35,14 +35,14 @@ async function buildSchedule() {
         fs.createReadStream('./gtfs_data/trips.txt').pipe(csv())
             .on('data', row => {
                 if (ferryRouteIds.has(row.route_id)) {
-                    // --- NEW LOGIC: Detect Terminating Runs ---
-                    const headsign = row.trip_headsign ? row.trip_headsign.toLowerCase() : "ferry";
-                    let isTerminating = false;
-                    
-                    // If the headsign says Russell but NOT Redland Bay, it's trapped on the islands!
-                    if (headsign.includes("russell") && !headsign.includes("redland")) && !headsign.includes("then")) {
-                        isTerminating = true;
-                    }
+        // --- NEW LOGIC: Detect Terminating Runs ---
+                const headsign = row.trip_headsign ? row.trip_headsign.toLowerCase() : "ferry";
+                let isTerminating = false;
+
+// The perfectly balanced if-statement:
+                if (headsign.includes("russell") && !headsign.includes("redland") && !headsign.includes("then")) {
+                isTerminating = true;
+                }
 
                     tripData[row.trip_id] = {
                         destination: row.trip_headsign || "Ferry",
