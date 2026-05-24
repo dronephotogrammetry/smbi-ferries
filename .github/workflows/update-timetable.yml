@@ -31,8 +31,9 @@ jobs:
           npm install csv-parser # <-- Fixed!
           node build-timetable.js
 
-      - name: Commit Updated Timetables
+    - name: Commit Updated Timetables
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "🤖 Auto-update: Weekly SMBI GTFS Timetable"
-          file_pattern: "*.json"
+          # Defusing the bomb: Only target these 3 exact files!
+          file_pattern: "trip-dict.json public/smbi-timetable.json public/smbi-shapes.json"
