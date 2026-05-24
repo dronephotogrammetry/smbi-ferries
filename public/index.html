@@ -66,21 +66,27 @@
         };
 
 // Make the colors dynamic based on the actual Trip Destination!
-        function getFerryIcon(destination) {
-            if (!destination) return icons['red'];
-            const dest = destination.toLowerCase();
+        function getFerryIcon(ferry) {
+            // 1. FIRST CHECK: Is it trapped on the islands?
+            if (ferry.is_terminating) return icons['red'];
+            
+            // 2. SECOND CHECK: Normal route logic
+            if (!ferry.destination) return icons['red'];
+            const dest = ferry.destination.toLowerCase();
             
             if (dest.includes('redland bay')) return icons['green'];
             if (dest.includes('russell then')) return icons['blue'];
             if (dest.includes('karragarra then')) return icons['orange'];
             
-            return icons['red']; // Covers "Russell Island" short runs or unknowns
+            return icons['red']; // Covers any other unknowns
         }
 
         // --- NEW: Match the tail hex color to the destination! ---
-        function getTailColor(destination) {
-            if (!destination) return '#cb2b3e'; // Red
-            const dest = destination.toLowerCase();
+        function getTailColor(ferry) {
+            if (ferry.is_terminating) return '#cb2b3e'; // Red
+            
+            if (!ferry.destination) return '#cb2b3e'; // Red
+            const dest = ferry.destination.toLowerCase();
             
             if (dest.includes('redland bay')) return '#2aad27'; // Green
             if (dest.includes('russell then')) return '#2a81cb'; // Blue
@@ -109,7 +115,7 @@
         }
         drawRouteLines();
 
-// --- LIVE FERRY LOGIC ---
+        // --- LIVE FERRY LOGIC ---
         let liveMapLayers = [];
 
         async function updateFerryLocations() {
@@ -124,7 +130,7 @@
                 ferries.forEach(ferry => {
                     // 1. Draw the pre-built tail provided by the server!
                     if (ferry.history && ferry.history.length > 1) {
-                        const tailColor = getTailColor(ferry.destination);
+                        const tailColor = getTailColor(ferry); // <-- UPDATED TO PASS FERRY OBJECT
                         const tail = L.polyline(ferry.history, {
                             color: tailColor,
                             weight: 4,
@@ -135,10 +141,13 @@
                     }
 
                     // 2. Draw the boat
-                    const iconColor = getFerryIcon(ferry.destination);
+                    const iconColor = getFerryIcon(ferry); // <-- UPDATED TO PASS FERRY OBJECT
                     const marker = L.marker([ferry.latitude, ferry.longitude], { icon: iconColor }).addTo(map);
                     
-                    marker.bindPopup(`<b>${ferry.vesselName}</b><br>Route: ${ferry.staticRouteId ? ferry.staticRouteId.replace('-4619', '') : 'Unknown'}<br>Heading to: ${ferry.destination}`);
+                    // 3. Add clear text to the popup so people know for sure!
+                    let statusText = ferry.is_terminating ? "<br><b style='color:red;'>⚠️ Terminates at Russell Island</b>" : "";
+                    
+                    marker.bindPopup(`<b>${ferry.vesselName}</b><br>Route: ${ferry.staticRouteId ? ferry.staticRouteId.replace('-4619', '') : 'Unknown'}<br>Heading to: ${ferry.destination}${statusText}`);
                     liveMapLayers.push(marker);
                 });
             } catch (error) {
