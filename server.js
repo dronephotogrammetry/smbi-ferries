@@ -42,9 +42,10 @@ app.get('/api/ferries', async (req, res) => {
             return routeId.includes('SMBI') || routeId.includes('299');
         });
 
-       const cleanFerryList = smbiFerries.map(ferry => {
+      const cleanFerryList = smbiFerries.map(ferry => {
             const tripId = ferry.vehicle.trip.tripId;
-            const tripInfo = tripDict[tripId] || { destination: "Islands", route_id: "Unknown" };
+            // 1. UPDATE THIS LINE to include a default for is_terminating just in case
+            const tripInfo = tripDict[tripId] || { destination: "Islands", route_id: "Unknown", is_terminating: false };
 
             const rawId = ferry.vehicle.vehicle.id;
             const vesselName = rawId.includes('_') ? rawId.split('_')[1] : "SMBI Ferry";
