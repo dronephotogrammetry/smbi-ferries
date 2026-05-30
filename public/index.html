@@ -232,15 +232,25 @@
                 }
 
                 finalDepartures.forEach(trip => {
+                    // Convert 24h GTFS time to friendly AM/PM
                     const [hour, min] = trip.time.split(':');
                     const dateObj = new Date();
                     dateObj.setHours(parseInt(hour) % 24, parseInt(min)); 
                     const friendlyTime = dateObj.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
 
+                    
+                    // --- NEW: Bulletproof terminating run detection ---
+                    // Instead of guessing by text, we just read the exact flag from the database!
+                    const isTerminating = trip.is_terminating === true;
+                    
+                    // Add a red warning badge if it terminates!
+                    const displayDest = isTerminating 
+                        ? `${trip.destination} <br><span style="color: #cb2b3e; font-size: 0.85em; font-weight: bold;">⚠️ Terminates at Russell</span>` 
+                        : trip.destination;
                     const row = `
                         <tr>
                             <td><strong>${friendlyTime}</strong></td>
-                            <td>${trip.destination}</td>
+                            <td>${displayDest}</td>
                             <td>${trip.stop}</td>
                         </tr>
                     `;
