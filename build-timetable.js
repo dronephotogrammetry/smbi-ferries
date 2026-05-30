@@ -5,7 +5,7 @@ async function buildSchedule() {
     console.log("1. Finding Ferry Routes...");
     const ferryRouteIds = new Set();
     await new Promise(resolve => {
-        fs.createReadStream('./gtfs_data/routes.txt').pipe(csv())
+        fs.createReadStream('./gtfs_raw/routes.txt').pipe(csv())
             .on('data', row => {
                 if (row.route_type === '4' || row.route_id.includes('SMBI')) {
                     ferryRouteIds.add(row.route_id);
@@ -17,7 +17,7 @@ async function buildSchedule() {
     console.log("2. Mapping TransLink Calendar...");
     const serviceDays = {};
     await new Promise(resolve => {
-        fs.createReadStream('./gtfs_data/calendar.txt').pipe(csv())
+        fs.createReadStream('./gtfs_raw/calendar.txt').pipe(csv())
             .on('data', row => {
                 serviceDays[row.service_id] = {
                     1: row.monday === '1', 2: row.tuesday === '1', 3: row.wednesday === '1',
@@ -27,33 +27,75 @@ async function buildSchedule() {
             .on('end', resolve);
     });
 
-    console.log("3. Building Server Dictionary...");
+    console.log("3. Locating Island Terminals...");
+    const targetStops = {};
+    const russellStopIds = new Set(); // We need to memorize which IDs belong to Russell!
+    await new Promise(resolve => {
+        fs.createReadStream('./gtfs_data/stops.txt').pipe(csv())
+            .on('data', row => {
+                const name = row.stop_name.toLowerCase();
+                if (name.includes('macleay') || name.includes('russell') || 
+                    name.includes('lamb') || name.includes('karragarra') || name.includes('redland bay marina')) {
+                    targetStops[row.stop_id] = row.stop_name.replace(' ferry terminal', '').trim();
+                    
+                    // If it's Russell, save the ID to our trap list
+                    if (name.includes('russell')) {
+                        russellStopIds.add(row.stop_id);
+                    }
+                }
+            })
+            .on('end', resolve);
+    });
+
+    console.log("4. Finding the TRUE Final Destination of Every Trip...");
+    const tripFinalStops = {}; // Stores the last known stop for a trip
+    await new Promise(resolve => {
+        fs.createReadStream('./gtfs_data/stop_times.txt').pipe(csv())
+            .on('data', row => {
+                if (ferryTrips.has(row.trip_id)) {
+                    const seq = parseInt(row.stop_sequence);
+                    // If we haven't seen this trip yet, OR this stop is later in the journey...
+                    if (!tripFinalStops[row.trip_id] || seq > tripFinalStops[row.trip_id].seq) {
+                        tripFinalStops[row.trip_id] = { 
+                            seq: seq, 
+                            stop_id: row.stop_id 
+                        };
+                    }
+                }
+            })
+            .on('end', resolve);
+    });
+
+    console.log("4b. Building Smart Server Dictionary...");
     const tripData = {};
     const tripDict = {}; 
     const smbiShapeIds = new Set();
+    
     await new Promise(resolve => {
         fs.createReadStream('./gtfs_data/trips.txt').pipe(csv())
             .on('data', row => {
                 if (ferryRouteIds.has(row.route_id)) {
-        // --- NEW LOGIC: Detect Terminating Runs ---
-                const headsign = row.trip_headsign ? row.trip_headsign.toLowerCase() : "ferry";
-                let isTerminating = false;
-
-// The perfectly balanced if-statement:
-                if (headsign.includes("russell") && !headsign.includes("redland") && !headsign.includes("then")) {
-                isTerminating = true;
-                }
+                    
+                    // --- BULLETPROOF TERMINATION LOGIC ---
+                    let isTerminating = false;
+                    const finalStopData = tripFinalStops[row.trip_id];
+                    
+                    // If the absolute last stop on this trip's route is Russell Island, it's trapped!
+                    if (finalStopData && russellStopIds.has(finalStopData.stop_id)) {
+                        isTerminating = true;
+                    }
 
                     tripData[row.trip_id] = {
                         destination: row.trip_headsign || "Ferry",
-                        service_id: row.service_id
+                        service_id: row.service_id,
+                        is_terminating: isTerminating // Save it for the timetable
                     };
                     
                     tripDict[row.trip_id] = {
                         destination: row.trip_headsign || "Ferry",
                         route_id: row.route_id,
                         shape_id: row.shape_id,
-                        is_terminating: isTerminating
+                        is_terminating: isTerminating 
                     };
                     if (row.shape_id) smbiShapeIds.add(row.shape_id);
                 }
@@ -62,31 +104,15 @@ async function buildSchedule() {
     });
     fs.writeFileSync('./trip-dict.json', JSON.stringify(tripDict, null, 2));
 
-    console.log("4. Locating Island Terminals...");
-    const targetStops = {};
-    await new Promise(resolve => {
-        fs.createReadStream('./gtfs_data/stops.txt').pipe(csv())
-            .on('data', row => {
-                const name = row.stop_name.toLowerCase();
-                if (name.includes('macleay') || name.includes('russell') || 
-                    name.includes('lamb') || name.includes('karragarra') || name.includes('redland bay marina')) {
-                    targetStops[row.stop_id] = row.stop_name.replace(' ferry terminal', '').trim();
-                }
-            })
-            .on('end', resolve);
-    });
-
     console.log("5. Crunching Stop Times...");
     const schedule = [];
     await new Promise(resolve => {
-        fs.createReadStream('./gtfs_data/stop_times.txt').pipe(csv())
+        fs.createReadStream('./gtfs_raw/stop_times.txt').pipe(csv())
             .on('data', row => {
                 if (tripData[row.trip_id] && targetStops[row.stop_id]) {
                     schedule.push({
-                        time: row.arrival_time, 
-                        destination: tripData[row.trip_id].destination,
-                        stop: targetStops[row.stop_id], 
-                        days: serviceDays[tripData[row.trip_id].service_id]
+                        time: row.arrival_time, destination: tripData[row.trip_id].destination,
+                        stop: targetStops[row.stop_id], days: serviceDays[tripData[row.trip_id].service_id]
                     });
                 }
             })
@@ -97,7 +123,7 @@ async function buildSchedule() {
     console.log("6. Extracting FULL Resolution Route Shapes...");
     const rawShapes = {};
     await new Promise(resolve => {
-        fs.createReadStream('./gtfs_data/shapes.txt').pipe(csv())
+        fs.createReadStream('./gtfs_raw/shapes.txt').pipe(csv())
             .on('data', row => {
                 if (smbiShapeIds.has(row.shape_id)) {
                     if (!rawShapes[row.shape_id]) rawShapes[row.shape_id] = [];
@@ -114,8 +140,11 @@ async function buildSchedule() {
     const cleanShapes = [];
     for (const shapeId in rawShapes) {
         rawShapes[shapeId].sort((a, b) => a.seq - b.seq);
+        
+        // NO MORE DECIMATION! Keep every single point for perfect curves.
         const coords = rawShapes[shapeId].map(pt => [pt.lat, pt.lon]);
         
+        // Find out which route this shape belongs to so we can color it
         let routeId = "Unknown";
         for (const trip in tripDict) {
             if (tripDict[trip].shape_id === shapeId) {
@@ -130,5 +159,4 @@ async function buildSchedule() {
     console.log("SUCCESS! Full resolution shapes and smarter dictionary generated!");
 }
 
-// Actually run the function!
 buildSchedule();
