@@ -15,6 +15,34 @@
         th, td { padding: 12px 15px; text-align: left; border-bottom: 1px solid #ddd; }
         th { background-color: #0078d7; color: white; }
         tr:hover { background-color: #f1f1f1; }
+
+        /* --- NEW TERMINAL TAB CSS GOES HERE --- */
+        .terminal-tabs {
+            display: flex;
+            overflow-x: auto;
+            gap: 10px;
+            margin-bottom: 15px;
+            padding-bottom: 5px; 
+            scrollbar-width: none; 
+        }
+        .terminal-tabs::-webkit-scrollbar {
+            display: none; 
+        }
+        .tab-btn {
+            padding: 8px 16px;
+            border: none;
+            border-radius: 20px;
+            background-color: #e0e0e0;
+            color: #333;
+            font-weight: bold;
+            cursor: pointer;
+            white-space: nowrap;
+            transition: background-color 0.2s;
+        }
+        .tab-btn.active {
+            background-color: #0078d7;
+            color: white;
+        }
     </style>
 </head>
 <body>
@@ -22,20 +50,28 @@
     <div id="map"></div>
 
     <div id="schedule-container">
-        <h2>Upcoming Departures</h2>
-        <table>
-            <thead>
-                <tr>
-                    <th>Time</th>
-                    <th>Destination</th>
-                    <th>Leaving From</th>
-                </tr>
-            </thead>
-            <tbody id="schedule-body">
-                <tr><td colspan="3">Loading schedule...</td></tr>
-            </tbody>
-        </table>
+    <h2>Upcoming Departures</h2>
+    
+    <div class="terminal-tabs" id="terminal-tabs">
+        <button class="tab-btn active" data-terminal="Redland Bay Marina">Redland Bay</button>
+        <button class="tab-btn" data-terminal="Russell Island">Russell</button>
+        <button class="tab-btn" data-terminal="Macleay Island">Macleay</button>
+        <button class="tab-btn" data-terminal="Lamb Island">Lamb</button>
+        <button class="tab-btn" data-terminal="Karragarra Island">Karragarra</button>
     </div>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Time</th>
+                <th>Destination</th>
+            </tr>
+        </thead>
+        <tbody id="schedule-body">
+            <tr><td colspan="2">Loading schedule...</td></tr>
+        </tbody>
+    </table>
+</div>
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
@@ -160,109 +196,114 @@
             if (!document.hidden) updateFerryLocations();
         }, 10000);
 
-        // --- REAL SCHEDULE LOGIC ---
-        async function loadSchedule() {
-            try {
-                const response = await fetch('/smbi-timetable.json');
-                let scheduleData = await response.json();
-                
-                const now = new Date();
-                const currentTimeStr = now.getHours().toString().padStart(2, '0') + ":" + 
-                                       now.getMinutes().toString().padStart(2, '0') + ":00";
-                
-                // --- NEW HOLIDAY LOGIC ---
-                // Format today as YYYY-MM-DD to match our list
-                const todayString = now.getFullYear() + "-" + 
-                                    String(now.getMonth() + 1).padStart(2, '0') + "-" + 
-                                    String(now.getDate()).padStart(2, '0');
+        // Store the global schedule grouped by terminal
+let scheduleByTerminal = {};
 
-                // Add QLD Public Holidays here
-                const qldHolidays = [
-                    "2026-01-01", // New Year's Day
-                    "2026-01-26", // Australia Day
-                    "2026-04-03", // Good Friday
-                    "2026-04-06", // Easter Monday
-                    "2026-04-25", // Anzac Day
-                    "2026-05-04", // Labour Day (May Day!)
-                    "2026-10-05", // King's Birthday
-                    "2026-12-25", // Christmas Day
-                    "2026-12-26"  // Boxing Day
-                ];
+async function loadSchedule() {
+    try {
+        const response = await fetch('/smbi-timetable.json');
+        let scheduleData = await response.json();
+        
+        const now = new Date();
+        const currentTimeStr = now.getHours().toString().padStart(2, '0') + ":" + 
+                               now.getMinutes().toString().padStart(2, '0') + ":00";
+        
+        const todayString = now.getFullYear() + "-" + 
+                            String(now.getMonth() + 1).padStart(2, '0') + "-" + 
+                            String(now.getDate()).padStart(2, '0');
 
-                // Note: This is now a 'let' instead of a 'const' so we can overwrite it!
-                let currentDayOfWeek = now.getDay(); 
+        const qldHolidays = [
+            "2026-01-01", "2026-01-26", "2026-04-03", "2026-04-06", 
+            "2026-04-25", "2026-05-04", "2026-10-05", "2026-12-25", "2026-12-26"
+        ];
 
-                // If today is in the holiday list, force Sunday's schedule (0)
-                if (qldHolidays.includes(todayString)) {
-                    currentDayOfWeek = 0; 
-                }
+        let currentDayOfWeek = now.getDay(); 
+        if (qldHolidays.includes(todayString)) {
+            currentDayOfWeek = 0; 
+        }
 
-                let todaysFerries = scheduleData
-                    .filter(trip => trip.days && trip.days[currentDayOfWeek] === true)
-                    .filter(trip => trip.time >= currentTimeStr)
-                    .sort((a, b) => a.time.localeCompare(b.time));
+        let todaysFerries = scheduleData
+            .filter(trip => trip.days && trip.days[currentDayOfWeek] === true)
+            .filter(trip => trip.time >= currentTimeStr)
+            .sort((a, b) => a.time.localeCompare(b.time));
 
-                const uniqueFerries = [];
-                const seen = new Set();
-                
-                for (const trip of todaysFerries) {
-                    const signature = `${trip.time}-${trip.destination}-${trip.stop}`;
-                    if (!seen.has(signature)) {
-                        seen.add(signature);
-                        uniqueFerries.push(trip);
-                    }
-                }
-
-                const terminals = ['Redland Bay Marina', 'Russell Island', 'Macleay Island', 'Lamb Island', 'Karragarra Island'];
-                let finalDepartures = [];
-
-                terminals.forEach(terminal => {
-                    const ferriesFromHere = uniqueFerries.filter(trip => trip.stop.includes(terminal));
-                    finalDepartures.push(...ferriesFromHere.slice(0, 2));
-                });
-
-                finalDepartures.sort((a, b) => a.time.localeCompare(b.time));
-
-                const tableBody = document.getElementById('schedule-body');
-                tableBody.innerHTML = ''; 
-
-                if (finalDepartures.length === 0) {
-                    tableBody.innerHTML = '<tr><td colspan="3">No more ferries today.</td></tr>';
-                    return;
-                }
-
-                finalDepartures.forEach(trip => {
-                    // Convert 24h GTFS time to friendly AM/PM
-                    const [hour, min] = trip.time.split(':');
-                    const dateObj = new Date();
-                    dateObj.setHours(parseInt(hour) % 24, parseInt(min)); 
-                    const friendlyTime = dateObj.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
-
-                    
-                    // --- NEW: Bulletproof terminating run detection ---
-                    // Instead of guessing by text, we just read the exact flag from the database!
-                    const isTerminating = trip.is_terminating === true;
-                    
-                    // Add a red warning badge if it terminates!
-                    const displayDest = isTerminating 
-                        ? `${trip.destination} <br><span style="color: #cb2b3e; font-size: 0.85em; font-weight: bold;">⚠️ Terminates at Russell</span>` 
-                        : trip.destination;
-                    const row = `
-                        <tr>
-                            <td><strong>${friendlyTime}</strong></td>
-                            <td>${displayDest}</td>
-                            <td>${trip.stop}</td>
-                        </tr>
-                    `;
-                    tableBody.innerHTML += row;
-                });
-            } catch (error) {
-                console.error("Schedule fetch error:", error);
-                document.getElementById('schedule-body').innerHTML = '<tr><td colspan="3">Could not load schedule.</td></tr>';
+        const uniqueFerries = [];
+        const seen = new Set();
+        
+        for (const trip of todaysFerries) {
+            const signature = `${trip.time}-${trip.destination}-${trip.stop}`;
+            if (!seen.has(signature)) {
+                seen.add(signature);
+                uniqueFerries.push(trip);
             }
         }
 
-        loadSchedule();
+        // Group into our new dictionary
+        const terminals = ['Redland Bay Marina', 'Russell Island', 'Macleay Island', 'Lamb Island', 'Karragarra Island'];
+        
+        terminals.forEach(terminal => {
+            const ferriesFromHere = uniqueFerries.filter(trip => trip.stop.includes(terminal));
+            // INCREASED TO 3 FERRIES
+            scheduleByTerminal[terminal] = ferriesFromHere.slice(0, 3);
+        });
+
+        // Initial render for the default active tab
+        renderTable('Redland Bay Marina');
+
+    } catch (error) {
+        console.error("Schedule fetch error:", error);
+        document.getElementById('schedule-body').innerHTML = '<tr><td colspan="2">Could not load schedule.</td></tr>';
+    }
+}
+
+// NEW: Function to render the table based on the selected tab
+function renderTable(terminalName) {
+    const finalDepartures = scheduleByTerminal[terminalName] || [];
+    const tableBody = document.getElementById('schedule-body');
+    tableBody.innerHTML = ''; 
+
+    if (finalDepartures.length === 0) {
+        tableBody.innerHTML = '<tr><td colspan="2">No more ferries today.</td></tr>';
+        return;
+    }
+
+    finalDepartures.forEach(trip => {
+        const [hour, min] = trip.time.split(':');
+        const dateObj = new Date();
+        dateObj.setHours(parseInt(hour) % 24, parseInt(min)); 
+        const friendlyTime = dateObj.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+
+        // CLEAN THE TEXT: Strip anything after " then " or " via "
+        let cleanDest = trip.destination.replace(/( then | via ).*/i, '').trim();
+
+        const isTerminating = trip.is_terminating === true;
+        
+        const displayDest = isTerminating 
+            ? `${cleanDest} <br><span style="color: #cb2b3e; font-size: 0.85em; font-weight: bold;">⚠️ Terminates at Russell</span>` 
+            : cleanDest;
+            
+        const row = `
+            <tr>
+                <td><strong>${friendlyTime}</strong></td>
+                <td>${displayDest}</td>
+            </tr>
+        `;
+        tableBody.innerHTML += row;
+    });
+}
+
+// NEW: Wire up the Tab Buttons
+document.getElementById('terminal-tabs').addEventListener('click', (e) => {
+    if (e.target.classList.contains('tab-btn')) {
+        // Remove active class from all tabs
+        document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+        // Add active class to clicked tab
+        e.target.classList.add('active');
+        // Render the correct data
+        renderTable(e.target.getAttribute('data-terminal'));
+    }
+});
+loadSchedule();
     </script>
 </body>
 </html>
