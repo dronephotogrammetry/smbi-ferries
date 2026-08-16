@@ -1,4 +1,6376 @@
 {
+  "38514550-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514551-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514552-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514553-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514554-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514555-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514556-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514557-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514558-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514559-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514560-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514561-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514562-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514563-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514564-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514565-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514566-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514567-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514568-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514569-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514586-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514587-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514588-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514589-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514590-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514591-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514592-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514593-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514594-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514595-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514596-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514597-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514598-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514599-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514600-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514601-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514602-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514603-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514604-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514605-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514606-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514607-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514608-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514609-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514610-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514611-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514612-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514613-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514614-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514615-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514616-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514617-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514618-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514619-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514620-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514621-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514622-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514623-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514624-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514625-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514626-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514627-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514628-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514629-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514630-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514631-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514632-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514633-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514634-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514635-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514636-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514637-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514638-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514655-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514656-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514657-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514658-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514659-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514660-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514661-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514662-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514663-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514664-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514665-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514666-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514667-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514668-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514669-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514670-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514671-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514672-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514673-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514674-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514675-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514676-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514677-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514678-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514679-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514680-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514681-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514682-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514683-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514684-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514685-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514686-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38514687-BCC 26_27-43849": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38514688-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514689-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514690-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514691-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514692-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514693-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514694-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514695-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514696-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514697-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514698-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514699-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514700-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514701-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514702-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514703-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514704-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514705-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514706-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514707-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514708-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514709-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514710-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514711-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514712-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514713-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514730-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514731-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514732-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514733-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514734-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514735-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514736-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514737-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514738-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514739-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514740-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514741-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514742-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514743-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514744-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514745-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514746-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514747-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514748-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514749-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514750-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514751-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514752-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514753-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514754-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514755-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514756-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514757-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514758-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514759-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514760-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514761-BCC 26_27-43849": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38514762-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514763-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514764-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514765-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514766-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514767-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514768-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514769-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514770-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514771-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514772-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514773-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514774-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514775-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514776-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514777-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514778-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514779-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514780-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514781-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514782-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514783-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514784-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514785-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514803-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514804-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514805-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514806-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514807-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514808-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514809-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514810-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514811-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514812-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514813-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514814-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514815-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514816-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514817-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514818-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514819-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514820-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514821-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514822-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514823-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514824-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514825-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514826-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514827-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514828-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514829-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514830-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514831-BCC 26_27-43849": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38514832-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514833-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514834-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514835-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514836-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514837-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514838-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514839-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514840-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514841-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514842-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514843-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514844-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514845-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514846-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514847-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514848-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514849-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514850-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514851-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514852-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514853-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514854-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514855-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514856-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514873-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514874-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514875-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514876-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514877-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514878-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514879-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514880-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514881-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514882-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514883-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514884-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514885-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514886-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514887-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514888-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514889-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514890-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514891-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514892-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514893-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514894-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514895-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514896-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514897-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514898-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514899-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514900-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514901-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514902-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514903-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514904-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38514905-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514906-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514907-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514908-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514909-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514910-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514911-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514912-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514913-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514914-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514915-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514916-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514917-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514918-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514919-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514920-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514921-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514922-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514923-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514924-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514925-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514926-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514927-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514928-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514945-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514946-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514947-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514948-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514949-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514950-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514951-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514952-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514953-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514954-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514955-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514956-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514957-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514958-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514959-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514960-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514961-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514962-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514963-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514964-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514965-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514966-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514967-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514968-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514969-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514970-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514971-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514972-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514973-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514974-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514975-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514976-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514977-BCC 26_27-43849": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38514978-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38514979-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38514980-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38514981-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38514982-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38514983-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38514984-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38514985-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38514986-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38514987-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38514988-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38514989-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38514990-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38514991-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38514992-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38514993-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38514994-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38514995-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38514996-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38514997-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38514998-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38514999-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515000-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515001-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515002-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515003-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515021-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515022-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515023-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515024-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515025-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515026-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515027-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515028-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515029-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515030-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515031-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515032-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515033-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515034-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515035-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515036-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515037-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515038-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515039-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515040-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515041-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515042-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515043-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515044-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515045-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515046-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515047-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515048-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515049-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515050-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515051-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515052-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515053-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515054-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515055-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515056-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515057-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515058-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515059-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515060-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515061-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515062-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515063-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515064-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515065-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515066-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515067-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515068-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515069-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515070-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515071-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515072-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515073-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515074-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515075-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515076-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515077-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515094-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515095-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515096-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515097-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515098-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515099-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515100-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515101-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515102-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515103-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515104-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515105-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515106-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515107-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515108-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515109-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515110-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515111-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515112-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515113-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515114-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515115-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515116-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515117-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515118-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515119-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515120-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515121-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515122-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515123-BCC 26_27-43849": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515130-BCC 26_27-43849": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10079",
+    "is_terminating": false
+  },
+  "38515131-BCC 26_27-43849": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10079",
+    "is_terminating": false
+  },
+  "38515132-BCC 26_27-43849": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10080",
+    "is_terminating": false
+  },
+  "38515133-BCC 26_27-43849": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10081",
+    "is_terminating": false
+  },
+  "38515134-BCC 26_27-43849": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10078",
+    "is_terminating": false
+  },
+  "38515135-BCC 26_27-43849": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10078",
+    "is_terminating": false
+  },
+  "38515136-BCC 26_27-43849": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10080",
+    "is_terminating": false
+  },
+  "38515137-BCC 26_27-43849": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10078",
+    "is_terminating": false
+  },
+  "38515138-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point ferry terminal",
+    "route_id": "F1-4055",
+    "shape_id": "F10163",
+    "is_terminating": false
+  },
+  "38515139-BCC 26_27-43849": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10080",
+    "is_terminating": false
+  },
+  "38515140-BCC 26_27-43849": {
+    "destination": "New Farm Park",
+    "route_id": "F1-4055",
+    "shape_id": "F10151",
+    "is_terminating": false
+  },
+  "38515141-BCC 26_27-43849": {
+    "destination": "Regatta",
+    "route_id": "F1-4055",
+    "shape_id": "F10155",
+    "is_terminating": false
+  },
+  "38515142-BCC 26_27-43849": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10078",
+    "is_terminating": false
+  },
+  "38515143-BCC 26_27-43849": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10079",
+    "is_terminating": false
+  },
+  "38515144-BCC 26_27-43849": {
+    "destination": "New Farm Park",
+    "route_id": "F1-4055",
+    "shape_id": "F10198",
+    "is_terminating": false
+  },
+  "38515145-BCC 26_27-43849": {
+    "destination": "Riverside",
+    "route_id": "F1-4055",
+    "shape_id": "F10168",
+    "is_terminating": false
+  },
+  "38515146-BCC 26_27-43849": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10080",
+    "is_terminating": false
+  },
+  "38515150-BCC 26_27-43849": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10081",
+    "is_terminating": false
+  },
+  "38515152-BCC 26_27-43849": {
+    "destination": "Regatta",
+    "route_id": "F1-4055",
+    "shape_id": "F10150",
+    "is_terminating": false
+  },
+  "38515158-BCC 26_27-43849": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10078",
+    "is_terminating": false
+  },
+  "38515159-BCC 26_27-43849": {
+    "destination": "Howard Smith Wharves",
+    "route_id": "F1-4055",
+    "shape_id": "F10199",
+    "is_terminating": false
+  },
+  "38515166-BCC 26_27-43849": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10105",
+    "is_terminating": false
+  },
+  "38515167-BCC 26_27-43849": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10079",
+    "is_terminating": false
+  },
+  "38515168-BCC 26_27-43849": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10081",
+    "is_terminating": false
+  },
+  "38515169-BCC 26_27-43849": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10081",
+    "is_terminating": false
+  },
+  "38515170-BCC 26_27-43849": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10079",
+    "is_terminating": false
+  },
+  "38515171-BCC 26_27-43849": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10079",
+    "is_terminating": false
+  },
+  "38515173-BCC 26_27-43849": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10079",
+    "is_terminating": false
+  },
+  "38515174-BCC 26_27-43849": {
+    "destination": "Northshore Hamilton ferry terminal",
+    "route_id": "F1-4055",
+    "shape_id": "F10152",
+    "is_terminating": false
+  },
+  "38515176-BCC 26_27-43849": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10080",
+    "is_terminating": false
+  },
+  "38515178-BCC 26_27-43849": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10102",
+    "is_terminating": false
+  },
+  "38515180-BCC 26_27-43849": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F1-4055",
+    "shape_id": "F10149",
+    "is_terminating": false
+  },
+  "38515181-BCC 26_27-43849": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10079",
+    "is_terminating": false
+  },
+  "38515182-BCC 26_27-43849": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10080",
+    "is_terminating": false
+  },
+  "38515183-BCC 26_27-43849": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10081",
+    "is_terminating": false
+  },
+  "38515184-BCC 26_27-43849": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10080",
+    "is_terminating": false
+  },
+  "38515185-BCC 26_27-43849": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10080",
+    "is_terminating": false
+  },
+  "38515186-BCC 26_27-43849": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10200",
+    "is_terminating": false
+  },
+  "38515188-BCC 26_27-43849": {
+    "destination": "Northshore Hamilton ferry terminal",
+    "route_id": "F1-4055",
+    "shape_id": "F10206",
+    "is_terminating": false
+  },
+  "38515189-BCC 26_27-43849": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10078",
+    "is_terminating": false
+  },
+  "38515190-BCC 26_27-43849": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10078",
+    "is_terminating": false
+  },
+  "38515191-BCC 26_27-43849": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10081",
+    "is_terminating": false
+  },
+  "38515192-BCC 26_27-43849": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10081",
+    "is_terminating": false
+  },
+  "38515193-BCC 26_27-43849": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10081",
+    "is_terminating": false
+  },
+  "38515194-BCC 26_27-43849": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10081",
+    "is_terminating": false
+  },
+  "38515196-BCC 26_27-43849": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10081",
+    "is_terminating": false
+  },
+  "38515197-BCC 26_27-43849": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10079",
+    "is_terminating": false
+  },
+  "38515198-BCC 26_27-43849": {
+    "destination": "UQ St Lucia ferry terminal",
+    "route_id": "F1-4055",
+    "shape_id": "F10204",
+    "is_terminating": false
+  },
+  "38515199-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F1-4055",
+    "shape_id": "F10157",
+    "is_terminating": false
+  },
+  "38515200-BCC 26_27-43849": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10078",
+    "is_terminating": false
+  },
+  "38515202-BCC 26_27-43849": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10079",
+    "is_terminating": false
+  },
+  "38515204-BCC 26_27-43849": {
+    "destination": "Northshore Hamilton ferry terminal",
+    "route_id": "F1-4055",
+    "shape_id": "F10205",
+    "is_terminating": false
+  },
+  "38515206-BCC 26_27-43849": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10104",
+    "is_terminating": false
+  },
+  "38515209-BCC 26_27-43849": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10078",
+    "is_terminating": false
+  },
+  "38515211-BCC 26_27-43849": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10078",
+    "is_terminating": false
+  },
+  "38515213-BCC 26_27-43849": {
+    "destination": "UQ St Lucia ferry terminal",
+    "route_id": "F1-4055",
+    "shape_id": "F10162",
+    "is_terminating": false
+  },
+  "38515214-BCC 26_27-43849": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10079",
+    "is_terminating": false
+  },
+  "38515215-BCC 26_27-43849": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10078",
+    "is_terminating": false
+  },
+  "38515216-BCC 26_27-43849": {
+    "destination": "Teneriffe",
+    "route_id": "F1-4055",
+    "shape_id": "F10196",
+    "is_terminating": false
+  },
+  "38515217-BCC 26_27-43849": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10078",
+    "is_terminating": false
+  },
+  "38515219-BCC 26_27-43849": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10078",
+    "is_terminating": false
+  },
+  "38515220-BCC 26_27-43849": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10079",
+    "is_terminating": false
+  },
+  "38515221-BCC 26_27-43849": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10080",
+    "is_terminating": false
+  },
+  "38515222-BCC 26_27-43849": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10080",
+    "is_terminating": false
+  },
+  "38515223-BCC 26_27-43849": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10080",
+    "is_terminating": false
+  },
+  "38515224-BCC 26_27-43849": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10081",
+    "is_terminating": false
+  },
+  "38515225-BCC 26_27-43849": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10080",
+    "is_terminating": false
+  },
+  "38515226-BCC 26_27-43849": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10081",
+    "is_terminating": false
+  },
+  "38515227-BCC 26_27-43849": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10081",
+    "is_terminating": false
+  },
+  "38515228-BCC 26_27-43849": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10080",
+    "is_terminating": false
+  },
+  "38515229-BCC 26_27-43849": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10078",
+    "is_terminating": false
+  },
+  "38515230-BCC 26_27-43849": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10080",
+    "is_terminating": false
+  },
+  "38515231-BCC 26_27-43849": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10081",
+    "is_terminating": false
+  },
+  "38515325-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515326-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515327-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515328-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515329-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515330-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515331-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515332-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515333-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515334-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515335-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515336-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515337-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515338-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515339-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515340-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515341-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515342-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515343-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515344-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515345-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515346-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515347-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515348-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515349-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515350-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515351-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515352-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515353-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515354-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515355-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515356-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515357-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515358-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515359-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515360-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515361-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515362-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515363-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515364-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515365-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515366-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515367-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515368-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515369-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515370-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515371-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515372-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515373-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515374-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515375-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515376-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515377-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515378-BCC 26_27-43851": {
+    "destination": "Bulimba",
+    "route_id": "F21-4055",
+    "shape_id": "F210002",
+    "is_terminating": false
+  },
+  "38515379-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515380-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515381-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515382-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515383-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515384-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515385-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515386-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515387-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515388-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515389-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515390-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515391-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515392-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515393-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515394-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515395-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515396-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515397-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515398-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515399-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515400-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515401-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515402-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515403-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515404-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515405-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515406-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515407-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515408-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515409-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515410-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515411-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515412-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515413-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515414-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515415-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515416-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515417-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515418-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515419-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515420-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515421-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515422-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515423-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515424-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515425-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515426-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515427-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515428-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515429-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515430-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515431-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F21-4055",
+    "shape_id": "F210001",
+    "is_terminating": false
+  },
+  "38515432-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515433-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515434-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515435-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515436-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515437-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515438-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515439-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515440-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515441-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515442-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515443-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515444-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515445-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515446-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515447-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515448-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515449-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515450-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515451-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515452-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515453-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515454-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515455-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515456-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515457-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515458-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515459-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515460-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515461-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515462-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515463-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515464-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515465-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515466-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515467-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515468-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515469-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515470-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515471-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515472-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515473-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515474-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515475-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515476-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515477-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515478-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515479-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515480-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515481-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515482-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515483-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515484-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515485-BCC 26_27-43851": {
+    "destination": "Sydney Street",
+    "route_id": "F22-4055",
+    "shape_id": "F220016",
+    "is_terminating": false
+  },
+  "38515486-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515487-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515488-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515489-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515490-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515491-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515492-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515493-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515494-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515495-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515496-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515497-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515498-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515499-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515500-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515501-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515502-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515503-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515504-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515505-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515506-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515507-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515508-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515509-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515510-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515511-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515512-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515513-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515514-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515515-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515516-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515517-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515518-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515519-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515520-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515521-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515522-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515523-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515524-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515525-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515526-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515527-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515528-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515529-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515530-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515531-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515532-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515533-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515534-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515535-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515536-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515537-BCC 26_27-43851": {
+    "destination": "Dockside",
+    "route_id": "F22-4055",
+    "shape_id": "F220017",
+    "is_terminating": false
+  },
+  "38515538-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515539-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515540-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515541-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515542-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515543-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515544-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515545-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515546-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515547-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515548-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515549-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515550-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515551-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515552-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515553-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515554-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515555-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515556-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515557-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515558-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515559-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515560-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515561-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515562-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515563-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515564-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515565-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515566-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515567-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515568-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515569-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515570-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515571-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515572-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515573-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515574-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515575-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515576-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515577-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515578-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515579-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515580-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515581-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515582-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515583-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515584-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515585-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515586-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515587-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515588-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515589-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515590-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515591-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515592-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515593-BCC 26_27-43851": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38515594-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515595-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515596-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515597-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515598-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515599-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515600-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515601-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515602-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515603-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515604-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515605-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515606-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515607-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515608-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515609-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515610-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515611-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515612-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515613-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515614-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515615-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515616-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515617-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515618-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515619-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515620-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515621-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515622-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515623-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515624-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515625-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515626-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515627-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515628-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515629-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515630-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515631-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515632-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515633-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515634-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515635-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515636-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515637-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515638-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515639-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515640-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515641-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515642-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515643-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515644-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515645-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515646-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515647-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515648-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515649-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38515650-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515651-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515652-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515653-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515654-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515655-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515656-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515657-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515658-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515659-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515660-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515661-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515662-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515663-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515664-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515665-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515666-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515667-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515668-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515669-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515670-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515671-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515672-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515673-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515674-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515675-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515676-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515677-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515678-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515679-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515680-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515681-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515682-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515683-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515684-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515685-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515686-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515687-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515688-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515689-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515690-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515691-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515692-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515693-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515694-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515695-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515696-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515697-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515698-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515699-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515700-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515701-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515702-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515703-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515704-BCC 26_27-43851": {
+    "destination": "Maritime Museum",
+    "route_id": "F24-4055",
+    "shape_id": "F240002",
+    "is_terminating": false
+  },
+  "38515705-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515706-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515707-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515708-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515709-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515710-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515711-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515712-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515713-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515714-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515715-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515716-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515717-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515718-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515719-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515720-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515721-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515722-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515723-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515724-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515725-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515726-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515727-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515728-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515729-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515730-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515731-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515732-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515733-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515734-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515735-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515736-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515737-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515738-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515739-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515740-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515741-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515742-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515743-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515744-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515745-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515746-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515747-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515748-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515749-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515750-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515751-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515752-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515753-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515754-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515755-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515756-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515757-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F24-4055",
+    "shape_id": "F240001",
+    "is_terminating": false
+  },
+  "38515758-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F11-4055",
+    "shape_id": "F110006",
+    "is_terminating": false
+  },
+  "38515759-BCC 26_27-43851": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10108",
+    "is_terminating": false
+  },
+  "38515760-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10079",
+    "is_terminating": false
+  },
+  "38515761-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10079",
+    "is_terminating": false
+  },
+  "38515762-BCC 26_27-43851": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10081",
+    "is_terminating": false
+  },
+  "38515763-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F1-4055",
+    "shape_id": "F10168",
+    "is_terminating": false
+  },
+  "38515764-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F11-4055",
+    "shape_id": "F110006",
+    "is_terminating": false
+  },
+  "38515765-BCC 26_27-43851": {
+    "destination": "Hawthorne ferry terminal",
+    "route_id": "F11-4055",
+    "shape_id": "F110024",
+    "is_terminating": false
+  },
+  "38515766-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10078",
+    "is_terminating": false
+  },
+  "38515768-BCC 26_27-43851": {
+    "destination": "New Farm Park",
+    "route_id": "F1-4055",
+    "shape_id": "F10198",
+    "is_terminating": false
+  },
+  "38515769-BCC 26_27-43851": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10080",
+    "is_terminating": false
+  },
+  "38515770-BCC 26_27-43851": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10080",
+    "is_terminating": false
+  },
+  "38515771-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F11-4055",
+    "shape_id": "F110006",
+    "is_terminating": false
+  },
+  "38515772-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F11-4055",
+    "shape_id": "F110006",
+    "is_terminating": false
+  },
+  "38515773-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton ferry terminal",
+    "route_id": "F1-4055",
+    "shape_id": "F10213",
+    "is_terminating": false
+  },
+  "38515774-BCC 26_27-43851": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10081",
+    "is_terminating": false
+  },
+  "38515775-BCC 26_27-43851": {
+    "destination": "South Bank",
+    "route_id": "F1-4055",
+    "shape_id": "F10094",
+    "is_terminating": false
+  },
+  "38515776-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10078",
+    "is_terminating": false
+  },
+  "38515777-BCC 26_27-43851": {
+    "destination": "UQ St Lucia ferry terminal",
+    "route_id": "F1-4055",
+    "shape_id": "F10209",
+    "is_terminating": false
+  },
+  "38515778-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10078",
+    "is_terminating": false
+  },
+  "38515781-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F12-4055",
+    "shape_id": "F120004",
+    "is_terminating": false
+  },
+  "38515782-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F12-4055",
+    "shape_id": "F120004",
+    "is_terminating": false
+  },
+  "38515783-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10078",
+    "is_terminating": false
+  },
+  "38515784-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F12-4055",
+    "shape_id": "F120004",
+    "is_terminating": false
+  },
+  "38515785-BCC 26_27-43851": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10080",
+    "is_terminating": false
+  },
+  "38515789-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10079",
+    "is_terminating": false
+  },
+  "38515790-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10079",
+    "is_terminating": false
+  },
+  "38515791-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10078",
+    "is_terminating": false
+  },
+  "38515792-BCC 26_27-43851": {
+    "destination": "Regatta",
+    "route_id": "F1-4055",
+    "shape_id": "F10150",
+    "is_terminating": false
+  },
+  "38515793-BCC 26_27-43851": {
+    "destination": "Howard Smith Wharves",
+    "route_id": "F1-4055",
+    "shape_id": "F10199",
+    "is_terminating": false
+  },
+  "38515794-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10079",
+    "is_terminating": false
+  },
+  "38515797-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F1-4055",
+    "shape_id": "F10196",
+    "is_terminating": false
+  },
+  "38515798-BCC 26_27-43851": {
+    "destination": "Sydney Street ferry terminal",
+    "route_id": "F1-4055",
+    "shape_id": "F10216",
+    "is_terminating": false
+  },
+  "38515799-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton ferry terminal",
+    "route_id": "F1-4055",
+    "shape_id": "F10214",
+    "is_terminating": false
+  },
+  "38515800-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10078",
+    "is_terminating": false
+  },
+  "38515801-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton ferry terminal",
+    "route_id": "F1-4055",
+    "shape_id": "F10215",
+    "is_terminating": false
+  },
+  "38515802-BCC 26_27-43851": {
+    "destination": "Regatta",
+    "route_id": "F1-4055",
+    "shape_id": "F10150",
+    "is_terminating": false
+  },
+  "38515803-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10079",
+    "is_terminating": false
+  },
+  "38515804-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10078",
+    "is_terminating": false
+  },
+  "38515805-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10079",
+    "is_terminating": false
+  },
+  "38515806-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10079",
+    "is_terminating": false
+  },
+  "38515807-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10079",
+    "is_terminating": false
+  },
+  "38515809-BCC 26_27-43851": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10080",
+    "is_terminating": false
+  },
+  "38515810-BCC 26_27-43851": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10081",
+    "is_terminating": false
+  },
+  "38515811-BCC 26_27-43851": {
+    "destination": "UQ St Lucia ferry terminal",
+    "route_id": "F1-4055",
+    "shape_id": "F10210",
+    "is_terminating": false
+  },
+  "38515813-BCC 26_27-43851": {
+    "destination": "Howard Smith Wharves",
+    "route_id": "F1-4055",
+    "shape_id": "F10156",
+    "is_terminating": false
+  },
+  "38515814-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F1-4055",
+    "shape_id": "F10157",
+    "is_terminating": false
+  },
+  "38515815-BCC 26_27-43851": {
+    "destination": "Regatta",
+    "route_id": "F1-4055",
+    "shape_id": "F10155",
+    "is_terminating": false
+  },
+  "38515816-BCC 26_27-43851": {
+    "destination": "UQ St Lucia ferry terminal",
+    "route_id": "F1-4055",
+    "shape_id": "F10211",
+    "is_terminating": false
+  },
+  "38515818-BCC 26_27-43851": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10081",
+    "is_terminating": false
+  },
+  "38515819-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F1-4055",
+    "shape_id": "F10157",
+    "is_terminating": false
+  },
+  "38515820-BCC 26_27-43851": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10081",
+    "is_terminating": false
+  },
+  "38515821-BCC 26_27-43851": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10081",
+    "is_terminating": false
+  },
+  "38515822-BCC 26_27-43851": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10195",
+    "is_terminating": false
+  },
+  "38515823-BCC 26_27-43851": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10081",
+    "is_terminating": false
+  },
+  "38515824-BCC 26_27-43851": {
+    "destination": "UQ St Lucia ferry terminal",
+    "route_id": "F1-4055",
+    "shape_id": "F10212",
+    "is_terminating": false
+  },
+  "38515825-BCC 26_27-43851": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10119",
+    "is_terminating": false
+  },
+  "38515826-BCC 26_27-43851": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10081",
+    "is_terminating": false
+  },
+  "38515827-BCC 26_27-43851": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10081",
+    "is_terminating": false
+  },
+  "38515828-BCC 26_27-43851": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10080",
+    "is_terminating": false
+  },
+  "38515829-BCC 26_27-43851": {
+    "destination": "UQ St Lucia ferry terminal",
+    "route_id": "F1-4055",
+    "shape_id": "F10162",
+    "is_terminating": false
+  },
+  "38515830-BCC 26_27-43851": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10081",
+    "is_terminating": false
+  },
+  "38515831-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F12-4055",
+    "shape_id": "F120004",
+    "is_terminating": false
+  },
+  "38515832-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F12-4055",
+    "shape_id": "F120004",
+    "is_terminating": false
+  },
+  "38515834-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton ferry terminal",
+    "route_id": "F1-4055",
+    "shape_id": "F10218",
+    "is_terminating": false
+  },
+  "38515835-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10079",
+    "is_terminating": false
+  },
+  "38515836-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10078",
+    "is_terminating": false
+  },
+  "38515837-BCC 26_27-43851": {
+    "destination": "New Farm Park",
+    "route_id": "F1-4055",
+    "shape_id": "F10151",
+    "is_terminating": false
+  },
+  "38515838-BCC 26_27-43851": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10080",
+    "is_terminating": false
+  },
+  "38515839-BCC 26_27-43851": {
+    "destination": "Guyatt Park",
+    "route_id": "F1-4055",
+    "shape_id": "F10166",
+    "is_terminating": false
+  },
+  "38515840-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10079",
+    "is_terminating": false
+  },
+  "38515841-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10078",
+    "is_terminating": false
+  },
+  "38515842-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10079",
+    "is_terminating": false
+  },
+  "38515843-BCC 26_27-43851": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10080",
+    "is_terminating": false
+  },
+  "38515844-BCC 26_27-43851": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10122",
+    "is_terminating": false
+  },
+  "38515845-BCC 26_27-43851": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10080",
+    "is_terminating": false
+  },
+  "38515846-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10079",
+    "is_terminating": false
+  },
+  "38515847-BCC 26_27-43851": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10081",
+    "is_terminating": false
+  },
+  "38515848-BCC 26_27-43851": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10080",
+    "is_terminating": false
+  },
+  "38515849-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10078",
+    "is_terminating": false
+  },
+  "38515850-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton ferry terminal",
+    "route_id": "F1-4055",
+    "shape_id": "F10167",
+    "is_terminating": false
+  },
+  "38515851-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10078",
+    "is_terminating": false
+  },
+  "38515852-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F1-4055",
+    "shape_id": "F10149",
+    "is_terminating": false
+  },
+  "38515853-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point",
+    "route_id": "F1-4055",
+    "shape_id": "F10149",
+    "is_terminating": false
+  },
+  "38515854-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10079",
+    "is_terminating": false
+  },
+  "38515855-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10078",
+    "is_terminating": false
+  },
+  "38515856-BCC 26_27-43851": {
+    "destination": "QUT Gardens Point ferry terminal",
+    "route_id": "F1-4055",
+    "shape_id": "F10163",
+    "is_terminating": false
+  },
+  "38515857-BCC 26_27-43851": {
+    "destination": "UQ St Lucia ferry terminal",
+    "route_id": "F1-4055",
+    "shape_id": "F10209",
+    "is_terminating": false
+  },
+  "38515858-BCC 26_27-43851": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10080",
+    "is_terminating": false
+  },
+  "38515859-BCC 26_27-43851": {
+    "destination": "Hawthorne",
+    "route_id": "F1-4055",
+    "shape_id": "F10120",
+    "is_terminating": false
+  },
+  "38515861-BCC 26_27-43851": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10080",
+    "is_terminating": false
+  },
+  "38515862-BCC 26_27-43851": {
+    "destination": "UQ St Lucia ferry terminal",
+    "route_id": "F1-4055",
+    "shape_id": "F10210",
+    "is_terminating": false
+  },
+  "38515863-BCC 26_27-43851": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10080",
+    "is_terminating": false
+  },
+  "38515864-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10078",
+    "is_terminating": false
+  },
+  "38515865-BCC 26_27-43851": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10080",
+    "is_terminating": false
+  },
+  "38515866-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton ferry terminal",
+    "route_id": "F1-4055",
+    "shape_id": "F10219",
+    "is_terminating": false
+  },
+  "38515867-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F11-4055",
+    "shape_id": "F110006",
+    "is_terminating": false
+  },
+  "38515868-BCC 26_27-43851": {
+    "destination": "Riverside",
+    "route_id": "F11-4055",
+    "shape_id": "F110006",
+    "is_terminating": false
+  },
+  "38515869-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton ferry terminal",
+    "route_id": "F1-4055",
+    "shape_id": "F10220",
+    "is_terminating": false
+  },
+  "38515870-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10078",
+    "is_terminating": false
+  },
+  "38515871-BCC 26_27-43851": {
+    "destination": "Teneriffe",
+    "route_id": "F1-4055",
+    "shape_id": "F10196",
+    "is_terminating": false
+  },
+  "38515872-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton ferry terminal",
+    "route_id": "F1-4055",
+    "shape_id": "F10221",
+    "is_terminating": false
+  },
+  "38515873-BCC 26_27-43851": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10197",
+    "is_terminating": false
+  },
+  "38515875-BCC 26_27-43851": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10081",
+    "is_terminating": false
+  },
+  "38515876-BCC 26_27-43851": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10080",
+    "is_terminating": false
+  },
+  "38515877-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10078",
+    "is_terminating": false
+  },
+  "38515878-BCC 26_27-43851": {
+    "destination": "New Farm Park",
+    "route_id": "F1-4055",
+    "shape_id": "F10198",
+    "is_terminating": false
+  },
+  "38515879-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10011",
+    "is_terminating": false
+  },
+  "38515880-BCC 26_27-43851": {
+    "destination": "Northshore Hamilton",
+    "route_id": "F1-4055",
+    "shape_id": "F10012",
+    "is_terminating": false
+  },
+  "38515881-BCC 26_27-43851": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10081",
+    "is_terminating": false
+  },
+  "38515882-BCC 26_27-43851": {
+    "destination": "UQ St Lucia",
+    "route_id": "F1-4055",
+    "shape_id": "F10080",
+    "is_terminating": false
+  },
+  "38515957-BCC 26_27-43851": {
+    "destination": "Bulimba ferry terminal",
+    "route_id": "F11-4055",
+    "shape_id": "F110023",
+    "is_terminating": false
+  },
   "37619905-BCC 26_27-42969": {
     "destination": "Bulimba",
     "route_id": "F21-4055",
@@ -20130,7 +26502,7 @@
     "is_terminating": false
   },
   "38501026-BCC 26_27-43831": {
-    "destination": "North Quay ferry terminal",
+    "destination": "North Quay",
     "route_id": "F1-4055",
     "shape_id": "F10180",
     "is_terminating": false
@@ -20250,7 +26622,7 @@
     "is_terminating": false
   },
   "38508855-BCC 26_27-43831": {
-    "destination": "South Bank ferry terminal",
+    "destination": "South Bank",
     "route_id": "F1-4055",
     "shape_id": "F10173",
     "is_terminating": false
@@ -20262,7 +26634,7 @@
     "is_terminating": false
   },
   "38508857-BCC 26_27-43831": {
-    "destination": "Riverside ferry terminal",
+    "destination": "Riverside",
     "route_id": "F1-4055",
     "shape_id": "F10175",
     "is_terminating": false
@@ -20274,7 +26646,7 @@
     "is_terminating": false
   },
   "38508859-BCC 26_27-43831": {
-    "destination": "Riverside ferry terminal",
+    "destination": "Riverside",
     "route_id": "F1-4055",
     "shape_id": "F10175",
     "is_terminating": false
@@ -20286,7 +26658,7 @@
     "is_terminating": false
   },
   "38508861-BCC 26_27-43831": {
-    "destination": "South Bank ferry terminal",
+    "destination": "South Bank",
     "route_id": "F1-4055",
     "shape_id": "F10173",
     "is_terminating": false
@@ -20340,19 +26712,19 @@
     "is_terminating": false
   },
   "38508872-BCC 26_27-43831": {
-    "destination": "Northshore Hamilton ferry terminal",
+    "destination": "Northshore Hamilton",
     "route_id": "F1-4055",
     "shape_id": "F10174",
     "is_terminating": false
   },
   "38508873-BCC 26_27-43831": {
-    "destination": "Northshore Hamilton ferry terminal",
+    "destination": "Northshore Hamilton",
     "route_id": "F1-4055",
     "shape_id": "F10178",
     "is_terminating": false
   },
   "38508874-BCC 26_27-43831": {
-    "destination": "Northshore Hamilton ferry terminal",
+    "destination": "Northshore Hamilton",
     "route_id": "F1-4055",
     "shape_id": "F10174",
     "is_terminating": false
@@ -20361,6 +26733,372 @@
     "destination": "Northshore Hamilton",
     "route_id": "F1-4055",
     "shape_id": "F10092",
+    "is_terminating": false
+  },
+  "38510297-BCC 26_27-43831": {
+    "destination": "South Bank",
+    "route_id": "F1-4055",
+    "shape_id": "F10095",
+    "is_terminating": false
+  },
+  "38510344-BCC 26_27-43831": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38510345-BCC 26_27-43831": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38510346-BCC 26_27-43831": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38510347-BCC 26_27-43831": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38510348-BCC 26_27-43831": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38510349-BCC 26_27-43831": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38510350-BCC 26_27-43831": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38510351-BCC 26_27-43831": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38510352-BCC 26_27-43831": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38510353-BCC 26_27-43831": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38510354-BCC 26_27-43831": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38510355-BCC 26_27-43831": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38510356-BCC 26_27-43831": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38510357-BCC 26_27-43831": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38510358-BCC 26_27-43831": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38510359-BCC 26_27-43831": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38510360-BCC 26_27-43831": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38510361-BCC 26_27-43831": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38510362-BCC 26_27-43831": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38510363-BCC 26_27-43831": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38510364-BCC 26_27-43831": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38510365-BCC 26_27-43831": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38510366-BCC 26_27-43831": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38510367-BCC 26_27-43831": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38510368-BCC 26_27-43831": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38510369-BCC 26_27-43831": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38510370-BCC 26_27-43831": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38510371-BCC 26_27-43831": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38510372-BCC 26_27-43831": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38510373-BCC 26_27-43831": {
+    "destination": "Riverside",
+    "route_id": "F23-4055",
+    "shape_id": "F230020",
+    "is_terminating": false
+  },
+  "38510374-BCC 26_27-43831": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38510375-BCC 26_27-43831": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38510376-BCC 26_27-43831": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38510377-BCC 26_27-43831": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38510378-BCC 26_27-43831": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38510379-BCC 26_27-43831": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38510380-BCC 26_27-43831": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38510381-BCC 26_27-43831": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38510382-BCC 26_27-43831": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38510383-BCC 26_27-43831": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38510384-BCC 26_27-43831": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38510385-BCC 26_27-43831": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38510386-BCC 26_27-43831": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38510387-BCC 26_27-43831": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38510388-BCC 26_27-43831": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38510389-BCC 26_27-43831": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38510390-BCC 26_27-43831": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38510391-BCC 26_27-43831": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38510392-BCC 26_27-43831": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38510393-BCC 26_27-43831": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38510394-BCC 26_27-43831": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38510395-BCC 26_27-43831": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38510396-BCC 26_27-43831": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38510397-BCC 26_27-43831": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38510398-BCC 26_27-43831": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38510399-BCC 26_27-43831": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38510400-BCC 26_27-43831": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38510401-BCC 26_27-43831": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38510402-BCC 26_27-43831": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
+    "is_terminating": false
+  },
+  "38510403-BCC 26_27-43831": {
+    "destination": "Holman Street",
+    "route_id": "F23-4055",
+    "shape_id": "F230017",
     "is_terminating": false
   },
   "37676132-COO 26_27-43134": {
